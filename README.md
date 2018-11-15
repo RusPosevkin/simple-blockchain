@@ -17,3 +17,6 @@ npm install
 ```bash
 npm run start 
 ```
+
+### License
+[MIT](LICENSE)
